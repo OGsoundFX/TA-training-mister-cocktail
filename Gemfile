@@ -50,3 +50,6 @@ gem 'rails-controller-testing', group: [ :test ]
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.12.0'
 gem 'simple_form'
+
+# added by me
+gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
